@@ -1,3 +1,10 @@
-# Welcome to my blog
+# Zos the Goatherd
 
-I'm glad you are here. I plan to talk about ...
+## Current projects
+* Learning Python
+* Using Emacs for everything
+  * org-mode is taking over my life
+* Ricing i3
+
+
+
