@@ -1,5 +1,14 @@
 Zos the Goatherd
 
+# Zos Test blog
+  I am going to be using this to demo some post about technology in the near future
+  
+## Upcoming material
+* Getting organized - what tools are available
+* email from the terminal neomutt, mu4e, etch
+* getting started with Emac - Doom vs building your own config. 
+* learning VIM...
+
 ## Current projects
 * Learning Python
 * Using Emacs for everything
