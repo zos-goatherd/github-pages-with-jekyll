@@ -21,3 +21,5 @@ Zos the Goatherd
 
 ## Long Term Goals
 * Set up a home electronics lab
+
+## [post](_posts/2020-11-03-first-post.md)
