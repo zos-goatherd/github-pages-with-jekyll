@@ -8,4 +8,6 @@ twitter_username: your-twitter-handle # DO NOT include the @ character, or else 
 github_username:  zos-goatherd # DO NOT include the @ character, or else the build will fail!
 mastadon_username:
 show_excerpts: true # set to false to remove excerpts on the homepage
-theme: jekyll-theme-minimal
+theme: minima
+minima:
+  skin: solarized-dark
